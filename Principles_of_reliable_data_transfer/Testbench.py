@@ -1,6 +1,5 @@
 # Simulation Testbench
-#
-# Author: Neha Karanjkar
+
 
 
 import simpy
