@@ -14,7 +14,7 @@
 #	data to the receiving application.
 
 # Author:Pranav Tambe
-#Author : Nishant Sing
+
 
 
 import simpy
