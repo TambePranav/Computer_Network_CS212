@@ -5,7 +5,7 @@
 #	seq_num: the packet sequence number,
 #	corrupted: a flag, which can be True or False
 #
-# Author: Neha Karanjkar
+
 
 
 class Packet(object):
