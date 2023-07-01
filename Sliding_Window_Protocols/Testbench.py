@@ -1,12 +1,11 @@
 # Simulation Testbench
-#
-# Author: Neha Karanjkar
+
 
 
 import simpy
 from Applications import SendingApplication,ReceivingApplication
 from Channel import UnreliableChannel
-from Pranav_Tambe_Nishant_Singh_rdt22 import *
+from Protocol_GBN import *
 
 # Create a simulation environment
 env=simpy.Environment()
